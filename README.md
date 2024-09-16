@@ -4,11 +4,11 @@
 
 This repository contains code for changing the background of an Android device using ADB commands and a note-taking application, both implemented in JavaScript and Python.
 
-## Android Background Changer
+## Background Changer
 
 ### JavaScript (`main.js`)
 
-The `main.js` script demonstrates how to change the background of an Android device by specifying the path to an image file.
+The `main.js` script demonstrates how to change the background of an Android, Windows, or Linux device by specifying the path to an image file.
 
 Example usage:
 ```javascript
@@ -18,7 +18,7 @@ changeBackground(imagePath);
 
 ### Python (`main.py`)
 
-The `main.py` script demonstrates how to change the background of an Android device by specifying the path to an image file.
+The `main.py` script demonstrates how to change the background of an Android, Windows, or Linux device by specifying the path to an image file.
 
 Example usage:
 ```python
